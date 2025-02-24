@@ -21,3 +21,47 @@ terms and conditions contained in the Educational Content License.  If you do
 not agree to any or all of the terms of the Educational Content License, you
 are prohibited from accessing, reviewing or using in any way the Educational
 Content.
+
+
+body {
+  width: 100%;
+  height: 100%;
+  margin: 0;
+}
+
+.header h1{
+  text-align: center;
+}
+
+.nav{
+  text-align: center;
+}
+
+#featured-property img{
+  max-width: 100%;
+  height: auto;
+}
+#featured-property figure{
+ text-align: center; 
+}
+
+#featured-property p{
+text-align: center;
+font-size: 12pt;
+}
+
+.details {
+  background-color: red;
+  padding: 20px 15px;
+  display: block;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
+h3{
+  margin: 0 ;
+}
+
+ p{
+  margin: o 10px;
+}
